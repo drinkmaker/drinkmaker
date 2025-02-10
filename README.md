@@ -1,9 +1,7 @@
-# 👋 Hi, I'm DrinkMaker
+# 👋 Hi, I'm Drinkmaker
 
 ## 👨‍💻 About Me
-- 🎯 WordPress Developer specializing in custom theme and plugin development
-- 💻 PHP enthusiast with a passion for clean code and optimal performance
-- 🌱 Always learning and staying up-to-date with WordPress core updates and PHP best practices
+- 🎯 WordPress Developer specializing in plugin development
 - 💡 Love creating efficient and user-friendly web solutions
 
 ## 🛠 Tech Stack
@@ -32,13 +30,11 @@
 
 
 ## 💼 WordPress Expertise
-- Custom Theme Development
-- Plugin Development
-- WooCommerce Integration
+- Custom Plugin Development
 - Performance Optimization
 - Security Implementation
 - API Integration
 
 ## 📫 How to Reach Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drinkmaker)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexander.khmelnitskiy.ua)
